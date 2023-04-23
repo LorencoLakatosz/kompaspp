@@ -1,0 +1,27 @@
+.pytanie {
+    text-align: center;
+    padding: 5%;
+    position: absolute;
+}
+
+.ukryj {
+    display: none;
+}
+
+.kwadrat {
+    text-align: center;
+    width: 5rem;
+    height: 5rem;
+    margin: 2rem;
+    display: inline-block;
+    background-color: red;
+}
+
+h3 {
+    position: relative;
+    margin-top: auto;
+}
+
+.wynik {
+    background-color: green;
+}
